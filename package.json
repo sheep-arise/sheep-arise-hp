@@ -1,0 +1,9 @@
+{
+  "name": "sheep-arise-website",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.95.1",
+    "resend": "^6.12.2"
+  }
+}
